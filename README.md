@@ -300,7 +300,3 @@ base-agent/
 ├── server.py       # Web server entry point
 └── Dockerfile
 ```
-
-## License
-
-Add your project's license here before publishing if you intend others to reuse or distribute the code.
